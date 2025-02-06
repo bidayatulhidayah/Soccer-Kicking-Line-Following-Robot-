@@ -44,7 +44,7 @@ This project implements an autonomous robot capable of moving in various directi
 
 
 ## Circuit Diagram
-Here, include a visual of your circuit diagram that outlines how all components are connected to the Arduino board.
+Components are connected to the Arduino board.
 
 <img src="https://github.com/bidayatulhidayah/Soccer-Kicking-Line-Followig-Robot-/blob/bc6098df0fa27de1c7bbf3197baf3e7865c6e6a3/Image%20and%20Diagram/Circuit%20diagram.png" alt="Circuit Diagram" width="400" />
 
