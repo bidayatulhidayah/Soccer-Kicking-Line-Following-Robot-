@@ -1,4 +1,4 @@
-# Soccer-Kicking-Line-Followig-Robot-
+# Soccer-Kicking-Line-Following-Robot-
 
 ### Autonomous Robot with Servo Control
 
